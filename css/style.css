@@ -252,12 +252,12 @@ footer p{
   align-items: center;
   padding: 1.5vw;
   flex-direction: column;
-  font-size: 1.46vw;
+  font-size: 1.45vw;
   width: 20vw;
   height: 26vw;
   background-color: #D1D1D1;
   gap: 5vh;
-  border-radius: 40px;
+  border-radius: 2vw;
 }
 .login-content img {
   position: relative;
