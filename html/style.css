@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Oswald';
+}
+
+.box {
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    width: 70vh;
+    height: 80vh;
+    position: relative;
+}
+.content {
+    border: 1px dashed rebeccapurple;
+    width: 90%;
+    height: 90%;
+}
+.login {
+    border: 1px dashed #EA5C10; 
+    width: 50%;
+    height: 9%;
+    text-align: center;
+    cursor: pointer;
+    background-color: #EA5C10;
+    bottom: 0;
+    position: absolute;
+    margin: 0 0 20% 20%;
+}
+.login p {
+    font-size: 26px;
+    text-align: center;
+
+}
