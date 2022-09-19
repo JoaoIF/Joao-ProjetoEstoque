@@ -2,4 +2,4 @@
 
 Projeto Estoque - Controle de Estoque 
 
- https://github.com/JoaoIF/Joao-ProjetoEstoque
+https://joaoif.github.io/Joao-ProjetoEstoque/
